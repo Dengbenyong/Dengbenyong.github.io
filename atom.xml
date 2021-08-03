@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>dby杂谈站</title>
+  
+  
+  <link href="http://dbenyong.com/atom.xml" rel="self"/>
+  
+  <link href="http://dbenyong.com/"/>
+  <updated>2021-08-03T09:15:04.667Z</updated>
+  <id>http://dbenyong.com/</id>
+  
+  <author>
+    <name>邓本永</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://dbenyong.com/2021/08/03/%E5%8F%AA%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E5%95%8A/"/>
+    <id>http://dbenyong.com/2021/08/03/%E5%8F%AA%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E5%95%8A/</id>
+    <published>2021-08-03T12:32:27.971Z</published>
+    <updated>2021-08-03T09:15:04.667Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;$$&lt;br&gt;\begin{align}&lt;br&gt;x &amp;amp;= a +b+c+d\&lt;br&gt; &amp;amp;= e +f\&lt;br&gt; &amp;amp;=</summary>
+        
+      
+    
+    
+    
+    <category term="test" scheme="http://dbenyong.com/categories/test/"/>
+    
+    
+    <category term="教你 AK IOI" scheme="http://dbenyong.com/tags/%E6%95%99%E4%BD%A0-AK-IOI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://dbenyong.com/2021/08/03/hello-world/"/>
+    <id>http://dbenyong.com/2021/08/03/hello-world/</id>
+    <published>2021-08-03T12:32:27.969Z</published>
+    <updated>2021-08-03T00:35:12.039Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
