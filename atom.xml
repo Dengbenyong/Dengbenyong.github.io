@@ -3,11 +3,11 @@
   <title>dby杂谈站</title>
   
   
-  <link href="http://dbenyong.com/atom.xml" rel="self"/>
+  <link href="https://dbenyong.com/atom.xml" rel="self"/>
   
-  <link href="http://dbenyong.com/"/>
+  <link href="https://dbenyong.com/"/>
   <updated>2021-08-03T09:15:04.667Z</updated>
-  <id>http://dbenyong.com/</id>
+  <id>https://dbenyong.com/</id>
   
   <author>
     <name>邓本永</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试</title>
-    <link href="http://dbenyong.com/2021/08/03/%E5%8F%AA%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E5%95%8A/"/>
-    <id>http://dbenyong.com/2021/08/03/%E5%8F%AA%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E5%95%8A/</id>
+    <link href="https://dbenyong.com/2021/08/03/%E5%8F%AA%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E5%95%8A/"/>
+    <id>https://dbenyong.com/2021/08/03/%E5%8F%AA%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E5%95%8A/</id>
     <published>2021-08-03T12:32:27.971Z</published>
     <updated>2021-08-03T09:15:04.667Z</updated>
     
@@ -34,17 +34,17 @@
     
     
     
-    <category term="test" scheme="http://dbenyong.com/categories/test/"/>
+    <category term="test" scheme="https://dbenyong.com/categories/test/"/>
     
     
-    <category term="教你 AK IOI" scheme="http://dbenyong.com/tags/%E6%95%99%E4%BD%A0-AK-IOI/"/>
+    <category term="教你 AK IOI" scheme="https://dbenyong.com/tags/%E6%95%99%E4%BD%A0-AK-IOI/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://dbenyong.com/2021/08/03/hello-world/"/>
-    <id>http://dbenyong.com/2021/08/03/hello-world/</id>
+    <link href="https://dbenyong.com/2021/08/03/hello-world/"/>
+    <id>https://dbenyong.com/2021/08/03/hello-world/</id>
     <published>2021-08-03T12:32:27.969Z</published>
     <updated>2021-08-03T00:35:12.039Z</updated>
     
