@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>https://dbenyong.com/2021/08/15/%E6%89%8B%E6%9C%BA%E5%BA%94%E8%AF%A5%E5%B8%A6%E8%BF%9B%E6%A0%A1%E5%9B%AD%E5%90%97/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://dbenyong.com/2021/08/15/%E7%B2%BE%E7%A5%9E%E9%B8%A6%E7%89%87/</loc>
     
     <lastmod>2021-08-08</lastmod>
@@ -60,7 +53,7 @@
 
   <url>
     <loc>https://dbenyong.com/</loc>
-    <lastmod>2021-08-15</lastmod>
+    <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -68,7 +61,7 @@
   
   <url>
     <loc>https://dbenyong.com/tags/%E6%95%99%E4%BD%A0-AK-IOI/</loc>
-    <lastmod>2021-08-15</lastmod>
+    <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -77,21 +70,21 @@
   
   <url>
     <loc>https://dbenyong.com/categories/test/</loc>
-    <lastmod>2021-08-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dbenyong.com/categories/%E6%97%B6%E8%AF%84/</loc>
-    <lastmod>2021-08-15</lastmod>
+    <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://dbenyong.com/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E5%8F%91/</loc>
-    <lastmod>2021-08-15</lastmod>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dbenyong.com/categories/%E6%97%B6%E8%AF%84/</loc>
+    <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
