@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dbenyong.com/2021/11/02/%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%8E%A8%E8%8D%90/</loc>
+    <loc>https://dbenyong.com/2022/03/05/%E6%88%98%E4%BA%89%E4%B8%8E%E7%AB%99%E9%98%9F/</loc>
     
-    <lastmod>2022-01-22</lastmod>
+    <lastmod>2022-03-05</lastmod>
     
   </url>
   
   <url>
-    <loc>https://dbenyong.com/2021/11/20/%E6%B3%95%E6%B2%BB%EF%BC%9F%E5%BE%97%E4%BA%86%E5%90%A7%EF%BC%81/</loc>
+    <loc>https://dbenyong.com/2021/11/02/%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%8E%A8%E8%8D%90/</loc>
     
-    <lastmod>2021-11-20</lastmod>
+    <lastmod>2022-02-06</lastmod>
     
   </url>
   
@@ -186,7 +186,7 @@
 
   <url>
     <loc>https://dbenyong.com/</loc>
-    <lastmod>2022-01-22</lastmod>
+    <lastmod>2022-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -196,21 +196,28 @@
   
   <url>
     <loc>https://dbenyong.com/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E5%8F%91/</loc>
-    <lastmod>2022-01-22</lastmod>
+    <lastmod>2022-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dbenyong.com/categories/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2022-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://dbenyong.com/categories/%E6%97%B6%E8%AF%84/</loc>
-    <lastmod>2022-01-22</lastmod>
+    <lastmod>2022-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://dbenyong.com/categories/%E6%94%BB%E7%95%A5/</loc>
-    <lastmod>2022-01-22</lastmod>
+    <lastmod>2022-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
